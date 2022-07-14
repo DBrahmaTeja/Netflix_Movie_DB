@@ -1,0 +1,21 @@
+.movie-details{
+    padding: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.exit
+{
+    background: white;
+    padding:1rem;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+    border-radius: 5px;
+
+}
+.exit :hover
+{
+    background: darkgrey;
+}

@@ -1,0 +1,28 @@
+.btns
+{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content:space-between ;
+}
+.back{
+    background-color: white;
+    padding: 1rem;
+    text-align: center;
+    font-size: large;
+    padding:1rem;
+    border-radius: 5px;
+}
+.next{
+    background-color: white;
+    padding: 1rem;
+    text-align: center;
+    font-size: large;
+   
+    padding:1rem;
+   
+    border-radius: 5px;
+}
+.next:hover,.back:hover{
+  
+    background-color: darkgray;
+}

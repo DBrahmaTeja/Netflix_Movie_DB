@@ -1,0 +1,19 @@
+.moviecardinfo{
+    margin:2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: aqua;
+    padding: 1rem;
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 5%;
+   line-height: 20px;
+}
+.poster{
+    
+   display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    height: auto;
+    position:relative;
+}

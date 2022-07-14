@@ -1,0 +1,23 @@
+.navbar{
+    display: flex;
+    padding: 2rem;
+    justify-content: space-between;
+    align-items:center;
+    width: 100%;
+    border:3px solid wheat;
+}
+.search-bar{
+    outline: none;
+    border: 1px solid wheat;
+    color: red;
+    
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: none;
+    background-color: #1B2634;
+    color: #eee;
+}
+.searchbtn{
+    font-size:15px;
+    font-weight: bold;
+    cursor: pointer;   
+}
